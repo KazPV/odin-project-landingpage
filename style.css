@@ -1,5 +1,8 @@
 body {
+    display: flex;
+    flex-direction: column;
     margin: 0px;
+    width: 100%;
 }
 
 .header {
@@ -36,4 +39,39 @@ a  {
     text-decoration: none;
     padding-left: 8px;
     padding-right: 8px;
+}
+
+.content-1 {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: row;
+    width: 100%;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+}
+
+.right-side {
+    display: flex;
+    flex: 0 1 auto;
+}
+
+.image {
+    width: 360px;
+}
+
+.content-2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.content-3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.image-content3 {
+    width: 120px;
 }
