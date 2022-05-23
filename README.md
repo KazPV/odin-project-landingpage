@@ -1,6 +1,10 @@
 # odin-project-landingpage
 
-A basic webpage consisting of HTML + CSS, made for The Odin Project.
+A basic webpage consisting of HTML + CSS, made for The Odin Project. 
+
+Live demo: https://kazpv.github.io/odin-project-landingpage/
+
+
 
 Basic design is from The Odin Project, and the images were sourced from Pexels:
 
